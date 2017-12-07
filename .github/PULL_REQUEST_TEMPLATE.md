@@ -1,6 +1,6 @@
 # Check completed processes
 - [ ] Self Review 
-- [ ] Peer Review 
+- [ ] Peer Review (optional)
 - [ ] Unit Testing
 - [ ] Local Postman Testing
 - [ ] QA sanity on Dev environment
